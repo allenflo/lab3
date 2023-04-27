@@ -1,2 +1,5 @@
 # lab3
+
+I am editing the README file. Adding some more details about the project description.
+
 This is lab 3 on coursera
